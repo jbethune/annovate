@@ -1,0 +1,9 @@
+[package]
+name = "annovate"
+version = "0.1.0"
+authors = ["jbethune <jbethune@github.fake>"]
+
+[dependencies]
+time = "0.1.35"
+docopt = "0.6.80"
+rustc-serialize = "0.3"
